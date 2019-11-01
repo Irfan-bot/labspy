@@ -29,7 +29,7 @@
 - Penjelasannya : Jika a lebih dari b dan a lebih dari c, maka output bilangan a, kalau bilangan a bukan bilangan terbesar maka lanjut ke bilangan b, jika b lebih dari a dan b lebih dari c maka bilangan b Adalah Bilangan terbesar, kalau a dan b bukan bilangan terbesar maka bilangan c Adalah bilangan yang terbesar.
 ![1](https://user-images.githubusercontent.com/56944673/67736796-228cbb80-f9c6-11e9-9eb6-b632fed27694.png)
 #### output
-![catss](https://user-images.githubusercontent.com/56944673/68007097-d0eb6780-fc37-11e9-96c6-ab9b659bdb3f.png)
+![2](https://user-images.githubusercontent.com/56944673/68007305-6e469b80-fc38-11e9-8fc5-6523637c6996.png)
 
 - =====================================
 - PROGRAM MENENTUKAN BILANGAN TERBESAR
@@ -44,5 +44,5 @@
 
 # flowchart
 
-![3](https://user-images.githubusercontent.com/56944673/67736928-a5ae1180-f9c6-11e9-8d00-c462101fb823.png)
+![catss](https://user-images.githubusercontent.com/56944673/68007097-d0eb6780-fc37-11e9-96c6-ab9b659bdb3f.png)
 
